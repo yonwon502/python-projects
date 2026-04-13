@@ -1,0 +1,21 @@
+
+📝 ORIGINAL TEXT:
+--------------------------------------------------
+hello my name is Yonathan.
+
+Time: 2026-04-13 23:46:02
+TEXT ANALYSIS REPORT
+========================================
+Lines: 2
+Words: 5
+Characters: 27
+Unique Words: 5
+Average Word Length: 4.20
+Language: en
+
+--- WORD FREQUENCY ---
+hello: 1
+my: 1
+name: 1
+is: 1
+yonathan: 1
